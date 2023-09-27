@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900366558058",
+    "project_id": "flutter-reddit-31843",
+    "storage_bucket": "flutter-reddit-31843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900366558058:android:251e95255279fa6c5cfb13",
+        "android_client_info": {
+          "package_name": "com.example.reddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw03Is0dyslWvTLW5bQckFL_IWIrfsJ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
